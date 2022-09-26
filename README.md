@@ -1,2 +1,3 @@
-# parser_subcat
-Парсер категории и субкатегории (ivtextil)
+## About Project
+
+Category and subcategory Parser (ivtextil).
